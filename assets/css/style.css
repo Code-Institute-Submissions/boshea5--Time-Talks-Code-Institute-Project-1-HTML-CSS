@@ -33,7 +33,6 @@ h1, h2 {
     }
     
    
-
 /* navigation links */
 
 #menu {
@@ -67,7 +66,7 @@ h1, h2 {
 /* hero image time talks */
 
 #hero-image-time-talks {
-    height: 320px;
+    height: 240px;
     width: 100%;
     background: url('../css/images/hero-image-time-talks.jpg') no-repeat center center;
 
@@ -77,4 +76,56 @@ h1, h2 {
     height: 320px;
     width: 100%;
     overflow: hidden;
+ animation-name: hero-zoom;
+ animation-duration: 1.25s;
 }
+
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+ from{
+     transform: scale(1.075);
+ }
+ to{
+     transform: scale(1);
+ }
+} 
+
+#about-time-talks {
+    height: 480px;
+    text-decoration: underline;
+    margin-left: 38px;
+}
+
+#left-about-time-talks {
+    padding-top: 30px;
+    width: 45%;
+    float: left;
+    position:left;
+    text-align: justify;
+    margin-left: 40px;
+
+    
+}
+
+#right-about-time-talks {
+    padding-top: 30px;
+    width: 45%;
+    float: right;
+    position: right;
+    text-align: justify;
+    margin-right: 40px; 
+}
+   
+
+  li {list-style-type: none;
+        font-weight: bold;
+}
+
+
+
+
+
+
+
+
+ 
