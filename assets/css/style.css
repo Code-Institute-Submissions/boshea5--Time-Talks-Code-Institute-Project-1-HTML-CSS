@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Fredericka+the+Great&family=Kaushan+Script&family=Poller+One&display=swap');
+
 
 * {
     margin: 0;
@@ -17,21 +18,28 @@ body {
 /* heading and logo */
 
 h1, h2 {
-    font-family: 'fredericka the great', sans-serif;
+    font-family: 'poller one', sans-serif;
     letter-spacing: 2.5px;
-    color: rgb(100, 50, 50);
+    color: teal;
 }
 
 #logo {
+    font-family: poller one;
     float: left;
-    size: 280%;
-}
+    font-size: 480%;
+    margin-left: 38px;
+    font-weight: 1100;
+    text-shadow: -1px 0 rgb(95, 45, 45), 0 1px rgb(95, 45, 45), 1px 0 rgb(95, 45, 45), 0 -1px rgb(95, 45, 45);
+    }
+    
+   
 
 /* navigation links */
 
 #menu {
-    font-size: 110%;
-    letter-spacing: 4px;
+    font-size: 140%;
+    letter-spacing: 6px;
+    font-weight: 1100;
 }
 
 #menu li {
@@ -45,21 +53,28 @@ h1, h2 {
 }
 
 #menu, #logo {
-    line-height: 80px;
+    line-height: 160px;
 }
 
 #menu a:hover {
-    border-bottom: 2px solid teal;
+    border-bottom: 2px solid rgb(95, 45, 45);
 }
 
 .active {
-    border-bottom: 2px solid teal ;
+    border-bottom: 2px solid rgb(95, 45, 45);
 }
 
 /* hero image time talks */
 
 #hero-image-time-talks {
-    height: 300px;
+    height: 320px;
     width: 100%;
-    background: url('../css/images/hero-image-time-talks.jpg');
+    background: url('../css/images/hero-image-time-talks.jpg') no-repeat center center;
+
+}
+
+#hero-image-time-talks-outer {
+    height: 320px;
+    width: 100%;
+    overflow: hidden;
 }
