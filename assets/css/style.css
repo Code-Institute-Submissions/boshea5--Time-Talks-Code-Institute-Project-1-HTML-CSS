@@ -90,11 +90,14 @@ h1, h2 {
  }
 } 
 
-#about-time-talks {
+#about-time-talks{
     height: 480px;
     text-decoration: underline;
     margin-left: 38px;
+    
 }
+
+h3 {text-decoration: underline;}
 
 #left-about-time-talks {
     padding-top: 30px;
@@ -122,8 +125,41 @@ h1, h2 {
 }
 
 
+#our-experts {
+    height: 480px;
+    text-decoration: underline;
+    margin-left: 38px;
 
+}
 
+#speaker-1-left {
+    padding-top: 30px;
+    width: 30%;
+    float: left;
+    position:left;
+    text-align: justify;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+#speaker-2-right {
+    padding-top: 30px;
+    width: 30%;
+    float: right;
+    position:right;
+    text-align: justify;
+    margin-right: 40px;
+}
+
+#speaker-3-center{
+    padding-top: 30px;
+    width: 30%;
+    float: left;
+    position:left;
+    text-align: justify;
+    margin-left: 40px;
+    text-decoration: none;
+}
 
 
 
