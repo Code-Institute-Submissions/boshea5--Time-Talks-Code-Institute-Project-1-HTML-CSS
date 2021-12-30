@@ -23,6 +23,11 @@ h1, h2 {
     color: teal;
 }
 
+h3 {text-decoration: underline;}
+
+h4 {text-decoration: underline;
+text-decoration-color: rgb(95, 45, 45);}
+
 #logo {
     font-family: poller one;
     float: left;
@@ -97,7 +102,6 @@ h1, h2 {
     
 }
 
-h3 {text-decoration: underline;}
 
 #left-about-time-talks {
     padding-top: 30px;
@@ -133,33 +137,29 @@ h3 {text-decoration: underline;}
 }
 
 #speaker-1-left {
-    padding-top: 30px;
-    width: 30%;
-    float: left;
-    position:left;
-    text-align: justify;
-    margin-left: 40px;
+    float:left; 
+    width: 33.3%;
+    height:280px;
     text-decoration: none;
+    
 }
 
 #speaker-2-right {
-    padding-top: 30px;
-    width: 30%;
-    float: right;
-    position:right;
-    text-align: justify;
-    margin-right: 40px;
+    float:right;
+    width:33.3%;
+    height:280px;
+    text-decoration: none;
+    
 }
 
 #speaker-3-center{
-    padding-top: 30px;
-    width: 30%;
-    float: left;
-    position:left;
-    text-align: justify;
-    margin-left: 40px;
+    float:left; 
+    width: 33.3%;
+    height:280px;
     text-decoration: none;
+   
 }
+
 
 
 
