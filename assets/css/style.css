@@ -104,7 +104,8 @@ text-decoration-color: rgb(95, 45, 45);}
 
 
 #left-about-time-talks {
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     width: 45%;
     float: left;
     position:left;
@@ -115,7 +116,8 @@ text-decoration-color: rgb(95, 45, 45);}
 }
 
 #right-about-time-talks {
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     width: 45%;
     float: right;
     position: right;
@@ -138,7 +140,7 @@ text-decoration-color: rgb(95, 45, 45);}
 
 #speaker-1-left {
     float:left; 
-    width: 33.3%;
+    width: 33.33%;
     height:280px;
     text-decoration: none;
     
@@ -146,7 +148,7 @@ text-decoration-color: rgb(95, 45, 45);}
 
 #speaker-2-right {
     float:right;
-    width:33.3%;
+    width:33.33%;
     height:280px;
     text-decoration: none;
     
@@ -154,9 +156,10 @@ text-decoration-color: rgb(95, 45, 45);}
 
 #speaker-3-center{
     float:left; 
-    width: 33.3%;
+    width: 33.33%;
     height:280px;
     text-decoration: none;
+    margin: 0 auto;
    
 }
 
