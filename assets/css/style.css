@@ -198,11 +198,12 @@ text-decoration-color: rgb(95, 45, 45);}
 
 
    #dates-time-list {
-    float:left; 
-    width: 65%;
+    margin:auto;
+    width: 70%;
     height:150px;
     text-decoration: none;
-    margin-top: 10px;
-    margin-left: 38px;
     background-color: cornsilk;
+    padding: 30.33px;
    }
+
+   
