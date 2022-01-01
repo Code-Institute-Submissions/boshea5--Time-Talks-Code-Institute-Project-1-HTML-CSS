@@ -17,22 +17,13 @@ body {
 
 /* heading and logo */
 
-#h1 {
-    height: 480px;
-    text-decoration: underline;
-    margin-left: 38px;
-    float: left;
+
 
     
+h2 {margin-left: 38px;
+
 }
 
-h2 {
-    font-family: 'poller one', sans-serif;
-    letter-spacing: 2.5px;
-    color: teal;
-}
-
-h3 {text-decoration: underline;}
 
 h4 {text-decoration: underline;
 text-decoration-color: rgb(95, 45, 45);}
@@ -40,18 +31,17 @@ text-decoration-color: rgb(95, 45, 45);}
 #logo {
     font-family: poller one;
     float: left;
-    font-size: 480%;
+    font-size: 400%;
     margin-left: 38px;
     font-weight: 1100;
     color:teal;
-    text-shadow: -1px 0 rgb(95, 45, 45), 0 1px rgb(95, 45, 45), 1px 0 rgb(95, 45, 45), 0 -1px rgb(95, 45, 45);
     }
     
    
 /* navigation links */
 
 #menu {
-    font-size: 140%;
+    font-size: 100%;
     letter-spacing: 6px;
     font-weight: 1100;
 }
@@ -83,7 +73,10 @@ text-decoration-color: rgb(95, 45, 45);}
 #hero-image-time-talks {
     height: 240px;
     width: 100%;
+    border-radius: 3px;
     background: url('../css/images/hero-image-time-talks.jpg') no-repeat center center;
+    border-radius: 25px;
+    
 
 }
 
@@ -147,6 +140,7 @@ text-decoration-color: rgb(95, 45, 45);}
     background-position: center;
     width: 100%;
     overflow: hidden;
+    border-radius: 25px;
    
    
 }
@@ -202,8 +196,28 @@ text-decoration-color: rgb(95, 45, 45);}
     width: 70%;
     height:150px;
     text-decoration: none;
-    background-color: cornsilk;
     padding: 30.33px;
    }
 
-   
+   #form-subscribe {
+       
+    width: 50%;
+    padding: 10px 40px;
+    margin: 40px 0;
+    box-sizing: border-box;
+    border: 5px solid teal;
+    border-radius: 4px;
+   text-align: center;
+
+   }
+
+   .button {
+       font-size: 20px;
+       background-color: white;
+       padding: 12px 28px;
+       border-radius: 12px;
+   }
+  
+  .button:hover {
+    background-color: teal;
+  }
