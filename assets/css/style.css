@@ -93,45 +93,38 @@ p { line-height: 35px;}
 
 /* About Time Talks Content */
 
-
-#about-time-talks {
-    
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    box-sizing: border-box;
-    margin-left: 30px;
-    margin-right: 30px;
+.container-1 {
+  display:flex;
+  justify-content: space-around;
+    border: 1.5px solid teal;
+    border-radius: 10px;
     padding-top: 20px;
-    padding-bottom: 10px;
-    width: 100%;
-    overflow: hidden;
-    border-radius: 25px;
-    
-    }
-
-#left-about-time-talks {
-
-    padding-top: 50px;
-    padding-bottom: 50px;
-    width: 45%;
-    float: left;
-    position:left;
-    text-align: justify;
-    margin-left: 40px;
-   
+    padding-bottom: 40px;
 }
 
-#right-about-time-talks {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    width: 45%;
-    float: right;
-    position: right;
-    text-align: justify;
-    margin-right: 40px; 
-    
+.box-1 p {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-align: justify;
 }
+
+.box-1 {  border: 5px solid rgb(95, 45, 45);
+  border-radius: 10px;
+  width: 45%;
+  height: fit-content;
+}
+
+.box-1 h4 { 
+  text-align: center;
+  color:rgb(95, 45, 45);
+  text-decoration: underline teal;
+
+}
+
+
+
    
 
   li {list-style-type: none;
@@ -141,7 +134,7 @@ p { line-height: 35px;}
 /* Our time Talk Experts */
 
 @media (min-width:900px){
-.container-1 {
+.container-2 {
     display:flex;
     align-items: center;
     justify-content: space-around;
@@ -156,14 +149,17 @@ p { line-height: 35px;}
 }
 
 
+/* box container for Time Talk Experts */
 
-.box {  border: 5px solid rgb(95, 45, 45);
+.box-2 {  border: 5px solid rgb(95, 45, 45);
     border-radius: 10px;
     width: 30%;
     height: fit-content;
 }
 
-.box p {
+/* Time Talk Experts Biography's-Written-Content */
+
+.box-2 p {
     
     margin-top: 20px;
     margin-left: 20px;
@@ -172,24 +168,14 @@ p { line-height: 35px;}
     text-align: justify;
 }
 
-
-
-
-
-
-
-/* Our time Talk Experts Individual Biogs */
-
-
-
-/* Headshots Speakers */
+/* Headshots Time Talk Experts */
 
 .head-shot-speaker {
     border-radius: 35%;
     margin-left: 25%;
     margin-right: 25%;
     width: 50%;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 5px;
     
   
