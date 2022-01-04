@@ -11,7 +11,7 @@
 body {
     
     font-family: 'Comfortaa', sans-serif;
-    font-weight: bolder;
+    font-weight: 900;
     font-size: 20px;
     color: teal;
     background-color: whitesmoke;
@@ -51,8 +51,8 @@ p { line-height: 35px;}
 
 #menu {
     font-size: 100%;
-    letter-spacing: 2px;
-    font-weight: 1100;
+    letter-spacing: 1.5px;
+    font-weight: bolder;
 }
 
 #menu li {
@@ -79,11 +79,12 @@ p { line-height: 35px;}
 
 /* hero image time talks */
 
-#hero-image-time-talks {
-    margin-left: 30px;
-    margin-right: 30px;
-    height: 180px;
+.hero-image-time-talks {
+  
+  display:flex;  
+    height: 160px;
     width: 100%;
+    align-content: stretch;
     border: 5px solid rgb(95, 45, 45);
     border-style: inset;
     margin-bottom: 10px;
@@ -96,10 +97,11 @@ p { line-height: 35px;}
 .container-1 {
   display:flex;
   justify-content: space-around;
-    border: 1.5px solid teal;
+   
     border-radius: 10px;
     padding-top: 20px;
     padding-bottom: 40px;
+   
 }
 
 .box-1 p {
@@ -108,6 +110,12 @@ p { line-height: 35px;}
   margin-right: 20px;
   margin-bottom: 20px;
   text-align: justify;
+}
+
+.box-1 h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 .box-1 {  border: 5px solid rgb(95, 45, 45);
@@ -129,7 +137,7 @@ p { line-height: 35px;}
 
   li {list-style-type: none;
         font-weight: bold;
-}
+  }
 
 /* Our time Talk Experts */
 
@@ -138,7 +146,6 @@ p { line-height: 35px;}
     display:flex;
     align-items: center;
     justify-content: space-around;
-    border: 1.5px solid teal;
     border-radius: 10px;
     background-image: url('../css/rolex-daytona-about-background-image.jpeg');
     height: fit-content;
@@ -161,7 +168,7 @@ p { line-height: 35px;}
 
 .box-2 p {
     
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
