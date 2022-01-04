@@ -177,6 +177,17 @@ p { line-height: 35px;}
 
 /* Headshots Time Talk Experts */
 
+.shop-photos {
+  
+  border-radius: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+
+
 .head-shot-speaker {
     border-radius: 35%;
     margin-left: 25%;
