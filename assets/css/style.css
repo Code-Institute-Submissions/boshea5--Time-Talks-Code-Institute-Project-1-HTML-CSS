@@ -13,8 +13,9 @@ body {
     font-family: 'Comfortaa', sans-serif;
     font-weight: 900;
     font-size: 20px;
-    color: teal;
-    background-color: whitesmoke;
+    color: rgb(0, 94, 94);
+    
+    background-image:url('../css/images/wallpaper.jpeg');
 }
 
 /* heading and logo */
@@ -22,13 +23,13 @@ body {
 
 
 h2 {margin-left: 2%;
-    text-decoration: underline;
+    text-decoration: underline skyblue;
 
 
 }
 
 
-h4 {text-decoration: underline;
+h4 {text-decoration: underline skyblue;
 text-decoration-color: rgb(95, 45, 45);}
 
 p { line-height: 35px;}
@@ -40,6 +41,7 @@ p { line-height: 35px;}
     float: left;
     font-size: 400%;
     margin-left: 40px;
+    padding-top: 2%;
     font-weight: 1100;
     color:teal;
     text-shadow: 1px 1px rgb(95, 45, 45);
@@ -49,27 +51,28 @@ p { line-height: 35px;}
    
 /* navigation links */
 
-#menu {
-    font-size: 100%;
-    letter-spacing: 1.5px;
-    font-weight: bolder;
-}
+.menu { float: right;
+  margin-right: 12.5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: inherit;
+  }
 
-#menu li {
-    float: right;
-    margin-right: 40px
-}
-
-#menu a {
+  .menu a {
     text-decoration: none;
     color: inherit;
+    line-height: 30px;
+   
+
 }
 
-#menu, #logo {
-    line-height: 160px;
-}
 
-#menu a:hover {
+  
+    
+
+
+
+.menu a:hover {
     border-bottom: 2px solid rgb(95, 45, 45);
 }
 
@@ -92,24 +95,32 @@ p { line-height: 35px;}
     border-radius: 25px
   }
 
+  #line-break {height:60px;}
+
+
 /* About Time Talks Content */
 
 .container-1 {
-  display:flex;
-  justify-content: space-around;
+  
    
-    border-radius: 10px;
-    padding-top: 20px;
-    padding-bottom: 40px;
-   
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+ 
+}
+
+.box-1 {
+  background-color: rgb(239, 249, 253);
 }
 
 .box-1 p {
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
+  margin-top: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
   text-align: justify;
+  
 }
 
 .box-1 h3 {
@@ -120,7 +131,7 @@ p { line-height: 35px;}
 
 .box-1 {  border: 5px solid rgb(95, 45, 45);
   border-radius: 10px;
-  width: 45%;
+  width: 100%;
   height: fit-content;
 }
 
@@ -141,27 +152,29 @@ p { line-height: 35px;}
 
 /* Our time Talk Experts */
 
-@media (min-width:900px){
+
 .container-2 {
-    display:flex;
-    align-items: center;
-    justify-content: space-around;
-    border-radius: 10px;
-    background-image: url('../css/rolex-daytona-about-background-image.jpeg');
+   
+   
+   
     height: fit-content;
-    padding-top: 20px;
-    padding-bottom: 40px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
    
 }
-}
+
 
 
 /* box container for Time Talk Experts */
 
 .box-2 {  border: 5px solid rgb(95, 45, 45);
     border-radius: 10px;
-    width: 30%;
+    width: 100%;
     height: fit-content;
+    background-image: url('../css/rolex-daytona-about-background-image.jpeg');
+
 }
 
 /* Time Talk Experts Biography's-Written-Content */
