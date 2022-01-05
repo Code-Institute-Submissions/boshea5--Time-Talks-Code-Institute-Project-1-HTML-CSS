@@ -14,13 +14,14 @@ body {
     font-weight: 900;
     font-size: 20px;
     color: rgb(0, 94, 94);
-    
     background-image:url('../css/images/wallpaper.jpeg');
 }
 
 /* heading and logo */
 
 
+
+h2 { margin-left:2.5%}
 
 
 
@@ -32,12 +33,12 @@ p { line-height: 35px;}
     font-family: poller one;
     float: left;
     font-size: 400%;
-    margin-left: 40px;
+    margin-left: 2.5%;
     padding-top: 2%;
     font-weight: 1100;
     color:teal;
     
-    text-shadow: skyblue 2px px;
+    text-shadow: skyblue 3px 3px 3px;
 }
     
     
@@ -79,10 +80,11 @@ p { line-height: 35px;}
     border-style: inset;
     margin-bottom: 10px;
     background: url('../css/images/hero-image-time-talks.jpg') no-repeat center center;
-    border-radius: 25px
+   
+   
   }
 
-  #line-break {height:60px;}
+  #line-break {height:40px;}
 
 
 /* About Time Talks Content */
@@ -101,6 +103,8 @@ p { line-height: 35px;}
 .box-1 {
   background-image:url('../css/rolex-daytona-about-background-image.jpeg');
 }
+
+.box-1
 
 .box-1 p {
   margin-top: 1%;
@@ -179,12 +183,14 @@ p { line-height: 35px;}
 /* Headshots Time Talk Experts */
 
 .shop-photos {
-  
   border-radius: 35%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  
+  
 }
 
 
@@ -203,32 +209,30 @@ p { line-height: 35px;}
    /* Dates and Times of Talks */
 
 #dates-time-subscribe {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-left:40px ;
+    padding-top: 1%;
+    margin-left:0.5% ;
 }
 
    #dates-time-list {
     margin:auto;
     width: 70%;
-    height:150px;
-    text-decoration: none;
-    padding: 30.33px;
-    padding-top: 1%;
-    margin-bottom: 10%;
-    padding-bottom: 2%;
+   
    }
 
    
  /* Form */
 
  .form {
-  margin-top: 40%;
-  margin-left: 20%;
-  margin-right: 60px;
-  margin-bottom: 20px;
-  text-align: justify;
-
+  border: 5px solid rgb(95, 45, 45);
+  border-radius: 10px;
+  height: fit-content;
+  background-image: url('../css/rolex-daytona-about-background-image.jpeg');
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 96%;
+  margin-bottom: 1%;
+  margin-top: 1%;
  }
   
   .name {
