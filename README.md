@@ -1,108 +1,247 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **_Time Talks_**
 
-Welcome boshea5,
+Time Talks is a website created for three Independent Jewellery stores who have collaborated on a series of 3 webinars hosted by Professionals from the Irish Watch Industry.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The aim of the site is to inform and increase the sales of high end wrist watches to new and existing customers as investments by offering free webinars to visitors who subscribe. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+The three retailers although collaborating on the project are also in competition with each other as well as being authorised dealers for competing brands. Thus the website needed to remain independent and as neutral as possible focusing on getting users to subscribe to the webinars.
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Welcome to the journey through <a href="https://boshea5.github.io/-Time-Talks-Code-Institute-Project-1-HTML-CSS/index.html"_blank" rel="noopener">Time Talks</a>
 
-`python3 -m http.server`
+![Time Talks responsive design]
 
-A blue button should appear to click: _Make Public_,
+![9B2EEC90-5E7D-4103-9219-64F5EF04E4C4](https://user-images.githubusercontent.com/96124619/148550920-72450db5-fa56-4966-8cad-aaf8e00a6aee.jpeg)
 
-Another blue button should appear to click: _Open Browser_.
+# Contents
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* [**User Experience UX**](<#user-experience-ux>)
+    *  [User Stories](<#user-stories>)
+    * [Wireframes](<#wireframes>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
+    *  [Typography](<#typography>)
+    *  [Colour Scheme](<#colour-scheme>)
+* [**Features**](<#features>)
+    * [**Home**](<#navigation-menu>)
+         * [Navigation menu](<#navigation-menu>)
+         * [About-us](<#about-us>)
+         * [Footer](<#footer>)
+    * [**Form Confirmation**](<#form-confirmation>)
+    * [**Future Features**](<#future-features>)
+* [**Technologies Used**](<#technologies-used>)
+* [**Testing**](<#testing>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [**Content**](<#content>)
+    * [**Media**](<#media>)
+*  [**Acknowledgements**](<#acknowledgements>)
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+# User Experience (UX)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## User Stories
 
-To log into the Heroku toolbelt CLI:
+* As a user I want to be able to navigate through the whole site smoothly.
+* As a user I want to understand the purpose of the site upon loading it.
+* As a user I want to easily be able to subscribe to the Time Talk Webinars.
+* As a user I want to know details, content, contributors and topics about the Time Talks.
+* As a user I want to know more about investing in high end time pieces.
+* As a user I want to connect with Time Talks on social media.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+[Back to top](<#contents>)
 
-------
+## Wireframes
 
-## Release History
+The wireframes for Time Talks were produced in [MockFlow](https://mockflow.com) The final site varies slightly from the wireframes due to developments that occured during the creation process. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+![F30A44FD-96F4-4E04-A439-07AE868B2B63](https://user-images.githubusercontent.com/96124619/148550582-9e8daff4-ff4b-4ab6-9f4f-d57a2f810991.jpeg)
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+[Back to top](<#contents>)
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+## Site Structure
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Time Talks website has three pages. The [Home page](index.html) is the default loading page, [About](about.html), [Our Experts](our-experts.html) and [Times-Dates-Subscribe](.html) pages are all accessible primarily from the navigation menu. There is another 3 links in the 'About-us' section to direct the user to the store that are supporting the webinars
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+[Back to top](<#contents>)
+## Design Choices
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+ * ### Typography
+      The fonts used were “Poller One” for the Logo and “Comfortaa” for the body text. The fall back was “sans-serif”
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+The typography was one of the most important styling components for the project. When researching other websites in the genre some of the most commonly used fonts were “Coldiac” , “Futura Thin” and “Myron”. These are used to project luxury and expense. Whereas Time Talks wanted to use a warmer typography to de-mystify the allure around luxury timepieces while also remaining classic , modern and legible.
+  
+![25361CE2-B335-4F2A-A30C-9362C42BA53B_4_5005_c](https://user-images.githubusercontent.com/96124619/148551729-7f7a6910-7b29-4d7e-a618-e78ee26cf80b.jpeg)
+  
+  The logo and H2 headers also incorporate a watch icon from font awesome. It is to reinforce that Time Talks is about wrist watches as opposed to clocks or other horological items. It is used in the 3 main sub-heading to reinforce design regularity and flow for the user. 
+![9B655B7B-530E-4C6B-A04A-EC0326CA56DD](https://user-images.githubusercontent.com/96124619/148551831-d03bbdd1-8dbb-47fc-895e-52268d237e01.jpeg)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+ * ### Colour Scheme
+     The Colour Scheme is based on the teal and brown Oyster Perpetual Cosmograph Daytona. The choice is reflected in the use of a similar faded background image in the “Our Expert” section. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+This colour combination is currently very popular in high end pieces and this particular model was one of the most googled watches in 2021.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+The colours were used to created an inclusive and welcoming environment as opposed to the more deep classic and noir colours normally associated with luxury brands. Teal watch faces are also one of the most requested and searched for colours from younger buyers entering the luxury watch market.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+![82893F9B-FB1F-4276-8D97-A93596E615D4_4_5005_c](https://user-images.githubusercontent.com/96124619/148551940-b814705a-9396-404b-9bf0-777339a3f0e8.jpeg)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+![78BF90DC-8B9F-474B-8225-6475B8B65EE4_4_5005_c](https://user-images.githubusercontent.com/96124619/148552149-c990099f-3e45-47ea-a76d-94dca8911823.jpeg)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
-------
+[Back to top](<#contents>)
+# Features
 
-## FAQ about the uptime script
+Time Talks site is set up to be an informative C.T.A to drive subscribtions to its webinar. It is also easy to use with a clear intention. It contains regular navigation functions that most users will be aware of the navigation bar and contact form. The overall feel of the website is intended to be warm and contrasting in style and feel to our partner stores websites. 
 
-**Why have you added this script?**
+## Existing Features  
+  * ### Navigation Menu
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+    * Sited at the top of all the pages in the site, it is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
+    * The logo is clickable with a link back to the home page for enhanced UX.
 
-**How will this affect me?**
+[Navigation bar image]![3DB6B561-7E81-44D3-B66D-9827033BAA81_4_5005_c](https://user-images.githubusercontent.com/96124619/148553335-d8937f42-ef83-4cfe-89eb-5cd196118316.jpeg)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+  [Back to top](<#contents>)
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+  * ### About-Us
+    The About Us section has a two fold intention. 
 
-**So….?**
+1.To let the user know what Time Talks is about, why it was formed and what benefits the visitor will gain if they subscribe to the webinar.
+2.To inform the user of its partner stores and provide links to their websites.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+The Section also houses the “In Association With” content and provides the user with hyperlinks to direct them to their online-stores. 
 
-**Can I opt out?**
+The speakers are also employed by the retailers. This allows a nice flow of information into the next section as the user will have a previous introduction to their workplace meaning this content won’t need to be repeated in detail in their bio’s. 
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+![CF12CC22-1908-41EE-A8B4-1532AE68271F_1_105_c](https://user-images.githubusercontent.com/96124619/148556934-a9ee5109-dd98-4c6c-897b-857d5e9a3f91.jpeg)
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+[Back to top](<#contents>)
 
-**Anything more?**
+  * ### Our Experts
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+This section introduces our experts who will be giving the Time Talks and the topics which they will cover. 
 
----
+It contains a profile image of each speaker to help personalise the experts. It  will hopefully help the user identify with the experts more than a branded image and convince them to subscribe to the webinar.
 
-Happy coding!
+* ### Dates&Times/Subscribe
+  
+This section informs the user when the talks are taking place and a form field to subscribe.
+
+The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
+  
+  ![A84CFEE9-F318-4DBF-A7E4-1936E2152199_1_105_c](https://user-images.githubusercontent.com/96124619/148560242-35383f5c-c5fa-4ae6-a133-5da9e6d938f0.jpeg)
+
+
+[Back to top](<#contents>)
+
+* ### Footer
+    
+    * Contains social media links. To enhance the UX the links open in other tabs.
+    * The social media presence will help the user contact Time Talks as opposed to the 3 retailers and will also encourage them to connect with Wawas Woods.
+    * To help the user with navigation on all devices a 'scroll to the top' arrow was added. It sticks to the bottom left of the screen at all times to give the user a quick and unobstructed way to the navigation bar. The arrow is semi-transparent with a light/dark contrasting border for use against all background colours.
+    * The GitHub and LinkedIn social links are there for the educational side of this project. They would be removed if this site was deployed outside of this project.
+    
+![Footer image](assets/readme-images/footer.png)
+[Back to top](<#contents>)
+
+* ### Projects
+
+    * The projects page give the user an idea of the recent projects that have been worked on. It also shows a number of different wood working techniques and finishes to help inspire the user's design.
+    * There are images of the recent projects. To help enhance the UX two slideshows have been added to allow the user to see more images of two of the pieces.
+    * This section would be updated periodically to reflect new recently finished projects.
+
+![Projects page image](assets/readme-images/projects4.png)
+[Back to top](<#contents>)
+
+* ### Inspiration
+    * The inspiration page is mainly there to demonstrate how a project starts and what is required to transform it into a finished project. It should inspire the user with the images of unfinished wood and get the user to imagine how that would look as a finished product.
+    * It also contains a brief description of how the project would be constructed to give the user a rough idea of what goes on behind the scenes.
+
+![Inspiration page image](assets/readme-images/inspiration.png)
+[Back to top](<#contents>)
+
+* ### Contact Us
+
+  
+
+* ### Form Confirmation
+   
+## Future Features 
+
+
+
+[Back to top](<#contents>)
+
+# Technologies Used
+* [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
+* [Mockflow](https://mockflow.com) - used to create the wireframes.
+* [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
+* [Github](https://github.com/) - used to host and edit the website.
+
+[Back to top](<#contents>)
+
+# Testing
+
+Please refer to [**_here_**](TESTING.md) for more information on testing Wawas Woods.
+
+[Back to top](<#contents>)
+
+# Deployment
+
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub pages deployed image](assets/readme-images/deploy.png)
+
+  The live link to the Github repository can be found here - https://boshea5.github.io/-Time-Talks-Code-Institute-Project-1-HTML-CSS/index.html
+
+### **To fork the repository on GitHub**
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+1. Log in to **GitHub** and locate the [repository](https://github.com/EwanColquhoun/wawaswoods).
+2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+![GitHub forking process image](assets/readme-images/forking.png)
+
+### **To create a local clone of this project**
+The method from cloning a project from GitHub is below:
+
+1. Under the repository’s name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+![Cloning image](assets/readme-images/clone.png)
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
+
+
+[Back to top](<#contents>)
+
+# Credits
+### Content
+
+* The font came from [Google Fonts](https://fonts.google.com/).
+* The form validation idea came from 
+* [Mockflow](https://www.mockflow) was used to create the wireframes.
+
+
+### Media
+* The photos are from istock and store websites
+* The photos were compressed using [Compressor](https://compressor.io/).
+
+[Back to top](<#contents>)
+
+# Acknowledgements
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Time Talks is a fictional company.
+
+Bernard O'Shea 2021.
+
+[Back to top](<#contents>)
