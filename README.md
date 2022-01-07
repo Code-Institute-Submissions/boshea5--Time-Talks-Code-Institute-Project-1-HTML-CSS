@@ -58,6 +58,7 @@ The wireframes for Time Talks were produced in [MockFlow](https://mockflow.com) 
 
 ![F30A44FD-96F4-4E04-A439-07AE868B2B63](https://user-images.githubusercontent.com/96124619/148550582-9e8daff4-ff4b-4ab6-9f4f-d57a2f810991.jpeg)
 
+![DB4E037A-BE19-41C8-A964-0055536C2CD9](https://user-images.githubusercontent.com/96124619/148602442-000e20a5-d213-4213-bb76-f7b5684057a1.jpeg)
 
 [Back to top](<#contents>)
 
@@ -156,6 +157,15 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
    
 ## Future Features 
 
+The site would like to integrate skype/zoom/google-hangout into the main body so that when the webinar is taking place it is framed within timetalks.ie
+
+An mp3 or mp4 file will be installed in the "Our Experts" section to give a quick highliget of each speaker
+
+The watch icons and hero image will have running time G.M.T
+
+Youtube links will be provided to previous talks
+
+A coupon code will be installed on the site for users to reference on the partners websites to economise the site with an agreed percentage amount off certain items
 
 
 [Back to top](<#contents>)
@@ -214,12 +224,11 @@ The method from cloning a project from GitHub is below:
 ### Content
 
 * The font came from [Google Fonts](https://fonts.google.com/).
-* The form validation idea came from (find this site)
+* The form code was based on a "floating contact form css" by Shante Austin https://codepen.io/shantedenise/pen/GYyxWV and uses https://formsubmit.co/bernardo.oshea@gmail.com by https://formsubmit.co/
 * [Mockflow](https://www.mockflow) was used to create the wireframes.
-* The Footer for the Social Media links was copied from "The Love Running" Project on The Code Institute LMS
+* Code for The Footer for the Social Media links was used from "The Love Running" Project on The Code Institute LMS
 * The written content for "In association with" section was taken from the partners respected websites
 * The color scheme template card was cited from http://colormind.io/ and https://www.rolex.com/watches/cosmograph-daytona/m116506-0001.html
-
 
 ### Media
 * The photos are from istock and store websites
