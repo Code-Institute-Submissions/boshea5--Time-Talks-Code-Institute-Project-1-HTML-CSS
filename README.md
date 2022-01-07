@@ -7,9 +7,9 @@ The aim of the site is to inform and increase the sales of high end wrist watche
 The three retailers although collaborating on the project are also in competition with each other as well as being authorised dealers for competing brands. Thus the website needed to remain independent and as neutral as possible focusing on getting users to subscribe to the webinars.
 
 
-Welcome to the journey through <a href="https://boshea5.github.io/-Time-Talks-Code-Institute-Project-1-HTML-CSS/index.html"_blank" rel="noopener">Time Talks</a>
+Welcome to the journey through https://boshea5.github.io/-Time-Talks-Code-Institute-Project-1-HTML-CSS/index.html"_blank"
 
-![Time Talks responsive design]
+[Time Talks responsive design]
 
 ![9B2EEC90-5E7D-4103-9219-64F5EF04E4C4](https://user-images.githubusercontent.com/96124619/148550920-72450db5-fa56-4966-8cad-aaf8e00a6aee.jpeg)
 
@@ -54,7 +54,7 @@ Welcome to the journey through <a href="https://boshea5.github.io/-Time-Talks-Co
 
 ## Wireframes
 
-The wireframes for Time Talks were produced in [MockFlow](https://mockflow.com) The final site varies slightly from the wireframes due to developments that occured during the creation process. 
+The wireframes for Time Talks were produced in [MockFlow](https://mockflow.com) The final site has some slight differences from the wireframe. 
 
 ![F30A44FD-96F4-4E04-A439-07AE868B2B63](https://user-images.githubusercontent.com/96124619/148550582-9e8daff4-ff4b-4ab6-9f4f-d57a2f810991.jpeg)
 
@@ -79,7 +79,7 @@ The typography was one of the most important styling components for the project.
 ![9B655B7B-530E-4C6B-A04A-EC0326CA56DD](https://user-images.githubusercontent.com/96124619/148551831-d03bbdd1-8dbb-47fc-895e-52268d237e01.jpeg)
 
  * ### Colour Scheme
-     The Colour Scheme is based on the teal and brown Oyster Perpetual Cosmograph Daytona. The choice is reflected in the use of a similar faded background image in the “Our Expert” section. 
+     The Colour Scheme is based on the teal and brown Oyster Perpetual Cosmograph Daytona. The choice is reflected in the use of a similar faded background images used in each section and a brushed steel effect for the overall background. 
 
 This colour combination is currently very popular in high end pieces and this particular model was one of the most googled watches in 2021.
 
@@ -94,7 +94,7 @@ The colours were used to created an inclusive and welcoming environment as oppos
 [Back to top](<#contents>)
 # Features
 
-Time Talks site is set up to be an informative C.T.A to drive subscribtions to its webinar. It is also easy to use with a clear intention. It contains regular navigation functions that most users will be aware of the navigation bar and contact form. The overall feel of the website is intended to be warm and contrasting in style and feel to our partner stores websites. 
+Time Talks site is set up to be an informative C.T.A to drive subscribtions to its webinar. It is also easy to use with a clear intention. It contains regular navigation functions that most users will be aware of like the navigation bar and contact form. The overall feel of the website is intended to be warm and contrasting in style and feel to our partner stores websites to make sure the user knows they are on an independent site. 
 
 ## Existing Features  
   * ### Navigation Menu
@@ -111,13 +111,14 @@ Time Talks site is set up to be an informative C.T.A to drive subscribtions to i
     The About Us section has a two fold intention. 
 
 1.To let the user know what Time Talks is about, why it was formed and what benefits the visitor will gain if they subscribe to the webinar.
-2.To inform the user of its partner stores and provide links to their websites.
-
-The Section also houses the “In Association With” content and provides the user with hyperlinks to direct them to their online-stores. 
-
-The speakers are also employed by the retailers. This allows a nice flow of information into the next section as the user will have a previous introduction to their workplace meaning this content won’t need to be repeated in detail in their bio’s. 
 
 ![CF12CC22-1908-41EE-A8B4-1532AE68271F_1_105_c](https://user-images.githubusercontent.com/96124619/148556934-a9ee5109-dd98-4c6c-897b-857d5e9a3f91.jpeg)
+
+2.To inform the user of its partner stores and provide links to their websites.
+![B6C42527-D62E-4F8F-BDD3-E8A2E454DB7F_1_105_c](https://user-images.githubusercontent.com/96124619/148571710-0be0ab98-394b-4587-bf8e-55082eec52c9.jpeg)
+
+Within the “In Association With” content the site provides the user with links to direct them to their online-stores. 
+The speakers are also employed by the retailers. This allows a nice flow of information into the next section as the user will have a previous introduction to their workplace - meaning that this content won’t need to be repeated in detail in their bio’s. 
 
 [Back to top](<#contents>)
 
@@ -126,6 +127,7 @@ The speakers are also employed by the retailers. This allows a nice flow of info
 This section introduces our experts who will be giving the Time Talks and the topics which they will cover. 
 
 It contains a profile image of each speaker to help personalise the experts. It  will hopefully help the user identify with the experts more than a branded image and convince them to subscribe to the webinar.
+![28C559E5-FFB9-4D6F-9247-8AF7DC024943_1_105_c](https://user-images.githubusercontent.com/96124619/148570583-152b0d10-1c69-4f0b-9784-484fcfead34d.jpeg)
 
 * ### Dates&Times/Subscribe
   
@@ -142,31 +144,13 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
     
     * Contains social media links. To enhance the UX the links open in other tabs.
     * The social media presence will help the user contact Time Talks as opposed to the 3 retailers and will also encourage them to connect with Wawas Woods.
-    * To help the user with navigation on all devices a 'scroll to the top' arrow was added. It sticks to the bottom left of the screen at all times to give the user a quick and unobstructed way to the navigation bar. The arrow is semi-transparent with a light/dark contrasting border for use against all background colours.
-    * The GitHub and LinkedIn social links are there for the educational side of this project. They would be removed if this site was deployed outside of this project.
     
-![Footer image](assets/readme-images/footer.png)
+    
+![Footer image]![C24E7FF2-A36F-49B0-A200-9B2C2EF60C20_4_5005_c](https://user-images.githubusercontent.com/96124619/148579285-c78e4cf9-a234-402d-bb00-bb12c538c977.jpeg)
+
 [Back to top](<#contents>)
 
-* ### Projects
 
-    * The projects page give the user an idea of the recent projects that have been worked on. It also shows a number of different wood working techniques and finishes to help inspire the user's design.
-    * There are images of the recent projects. To help enhance the UX two slideshows have been added to allow the user to see more images of two of the pieces.
-    * This section would be updated periodically to reflect new recently finished projects.
-
-![Projects page image](assets/readme-images/projects4.png)
-[Back to top](<#contents>)
-
-* ### Inspiration
-    * The inspiration page is mainly there to demonstrate how a project starts and what is required to transform it into a finished project. It should inspire the user with the images of unfinished wood and get the user to imagine how that would look as a finished product.
-    * It also contains a brief description of how the project would be constructed to give the user a rough idea of what goes on behind the scenes.
-
-![Inspiration page image](assets/readme-images/inspiration.png)
-[Back to top](<#contents>)
-
-* ### Contact Us
-
-  
 
 * ### Form Confirmation
    
@@ -182,12 +166,13 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
 * [Mockflow](https://mockflow.com) - used to create the wireframes.
 * [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
 * [Github](https://github.com/) - used to host and edit the website.
+* [Font Awesome] (https://fontawesome.com/) - used for Logo
 
 [Back to top](<#contents>)
 
 # Testing
 
-Please refer to [**_here_**](TESTING.md) for more information on testing Wawas Woods.
+Please refer to [**_here_**](TESTING.md) for more information on testing Time Talks.
 
 [Back to top](<#contents>)
 
@@ -206,7 +191,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 ### **To fork the repository on GitHub**
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
-1. Log in to **GitHub** and locate the [repository](https://github.com/EwanColquhoun/wawaswoods).
+1. Log in to **GitHub** and locate the [repository](this needs to filled in).
 2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
 ![GitHub forking process image](assets/readme-images/forking.png)
 
@@ -229,8 +214,11 @@ The method from cloning a project from GitHub is below:
 ### Content
 
 * The font came from [Google Fonts](https://fonts.google.com/).
-* The form validation idea came from 
+* The form validation idea came from (find this site)
 * [Mockflow](https://www.mockflow) was used to create the wireframes.
+* The Footer for the Social Media links was copied from "The Love Running" Project on The Code Institute LMS
+* The written content for "In association with" section was taken from the partners respected websites
+* The color scheme template card was cited from http://colormind.io/ and https://www.rolex.com/watches/cosmograph-daytona/m116506-0001.html
 
 
 ### Media
