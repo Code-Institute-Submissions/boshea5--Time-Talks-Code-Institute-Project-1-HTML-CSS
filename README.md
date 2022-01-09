@@ -239,7 +239,7 @@ This was a warning on the css code. On researching it the answer was that it was
 
 ### Google Chrome Crash Handler and Git Hub / Git Pod Issues
 
-The project was constanly hamperd by overusing our data allowance. The issue has yet to be resolved. It seems to be becasue of the extension to use git hub on mac ios and Google Chrome Crash Handler constantly pulling data. It can be turned off but it install the run git hub to git pod button. I had to revert to using Firefox as browser. Service Provider, Google and Slack could not provide an answer. Data was lost regulary.
+The project was constanly hamperd by overusing our data allowance. The issue has yet to be resolved. It seems to be becasue of the extension to use git hub on mac ios and Google Chrome Crash Handler constantly pulling data. It can be turned off. However it resulted in no gitpod button and loss of code. I had to revert to using Firefox as browser. Service Provider, Google and Slack could not provide an answer. Data was lost regulary.
 
 
 
