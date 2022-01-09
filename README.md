@@ -286,7 +286,7 @@ The method from cloning a project from GitHub is below:
 ### Content
 
 * The font came from [Google Fonts](https://fonts.google.com/).
-* The form code was based on a "floating contact form css" by Shante Austin https://codepen.io/shantedenise/pen/GYyxWV and uses https://formsubmit.co/bernardo.oshea@gmail.com by https://formsubmit.co/
+* The form code was based on a "floating contact form css" by Shante Austin https://codepen.io/shantedenise/pen/GYyxWV 
 * [Mockflow](https://www.mockflow) was used to create the wireframes.
 * Code for The Footer for the Social Media links was based on the form from "The Love Running" Project on The Code Institute LMS
 * The written content for "In association with" section was taken from the partners respected websites
