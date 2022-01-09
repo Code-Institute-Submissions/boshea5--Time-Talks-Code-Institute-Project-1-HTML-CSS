@@ -181,7 +181,7 @@ A coupon code will be installed on the site for users to reference on the partne
 
 [Back to top](<#contents>)
 
-## Testing
+# Testing
 
 All the code has been run through the W3C html Validator and the W3C CSS Validator. 
 
