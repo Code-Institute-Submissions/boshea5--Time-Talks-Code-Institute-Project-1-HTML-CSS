@@ -63,7 +63,7 @@ The wireframes for Time Talks were produced in [MockFlow](https://mockflow.com) 
 
 ## Site Structure
 
-Time Talks website has three pages. The [Home page](index.html) is the default loading page, [About](about.html), [Our Experts](our-experts.html) and [Times-Dates-Subscribe](.html) pages are all accessible primarily from the navigation menu. There is another 3 links in the 'About-us' section to direct the user to the store that are supporting the webinars
+Time Talks website has one page with 3 sections. The [Home page](index.html) is the default loading page, [About](about.html), [Our Experts](our-experts.html) and [Times-Dates-Subscribe](.html) pages are all accessible primarily from the navigation menu. There is another 3 links in the 'About-us' section to direct the user to the store that are supporting the webinars
 
 [Back to top](<#contents>)
 ## Design Choices
