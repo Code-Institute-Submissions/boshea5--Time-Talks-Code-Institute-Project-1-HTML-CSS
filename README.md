@@ -189,7 +189,7 @@ All the code has been run through the W3C html Validator and the W3C CSS Validat
 
 ![42D52065-2741-4590-9237-FCC8A4711503_1_105_c](https://user-images.githubusercontent.com/96124619/148691902-00e38956-3092-457a-b6c6-af3e027ae1f9.jpeg)
 
-*Responsiveness Test
+## Responsiveness Test
 
 The responsive design tests were carried out manually with Google Chrome DevTools
 
@@ -202,12 +202,48 @@ The responsive design tests were carried out manually with Google Chrome DevTool
 Browser Compatibility
 The site was tested on the following browsers with no visible issues for the user. Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
 
-*Lighthouse Test
+## Lighthouse Test
 
 The site scored 100% on Accessibilty 
 
 
 ![E79A454A-18B5-44F3-9CED-3606F51FB2B6](https://user-images.githubusercontent.com/96124619/148692069-5e886c2f-5832-4b71-b2f5-4288d1c30c8a.jpeg)
+
+## Testing User Stories
+
+* As a user I want to be able to navigate through the whole site smoothly.
+* Navigation is at the top left the page in the form of the navigation menu.
+<br>
+* As a user I want to understand the purpose of the site upon loading it.
+* The Home page has a large hero image of a watch along with the logo having a watch inserted between Time and Talks
+*<br>
+* As a user I want to easily be able to subscribe to the Time Talk Webinars.
+* There is a simple clear form to fill in with Name and Email at the bottom of the page
+<br>
+* As a user I want to know details, content, contributors and topics about the Time Talks.
+* In every section it is clearly pointed using images and written content about the Time Talks mission.
+<br>
+* As a user I want to connect with Time Talks on social media.
+* The footer allows clickable links to connect with socila media platforms
+
+#Bugs
+
+* Uresolved
+
+![57E0849F-DBA9-48E0-9DA8-DEB57B49F997](https://user-images.githubusercontent.com/96124619/148692463-8fa3fa33-48c8-4181-b249-48c9911a56ec.jpeg)
+
+This was a warning on the css code. On researching it the answer was that it wasnt a bug
+
+![1F1AD7B2-D7BE-4E7E-87BE-DB296B76FBE5_1_105_c](https://user-images.githubusercontent.com/96124619/148692495-764aa727-4c2a-4d98-adfe-8627de5e0f88.jpeg)
+
+#Google Chrome Crash Handler and Git Hub / Git Pod Issues
+
+The project was constanly hamperd by overusing our data allowance. The issue has yet to be resolved. It seems to be becasue of the extension to use git hub on mac ios and Google Chrome Crash Handler constantly pulling data. It ca be turned off but it wont run git hub to git pod button. I had to revert to using Firefox as browser. Service Provider and Google, Slack could not provide an answer. Data was lost regulary. 
+
+
+
+
+
 
 
 [Back to top](<#contents>)
