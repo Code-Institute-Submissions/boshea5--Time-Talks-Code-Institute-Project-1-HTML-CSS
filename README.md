@@ -199,7 +199,8 @@ The responsive design tests were carried out manually with Google Chrome DevTool
 
 ![646DC748-CCCB-418D-8342-8B14F194020A](https://user-images.githubusercontent.com/96124619/148692034-33e9f0d9-75ca-4222-ae5c-c154bf73b4ad.jpeg)
 
-Browser Compatibility
+## Browser Compatibility
+
 The site was tested on the following browsers with no visible issues for the user. Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
 
 ## Lighthouse Test
