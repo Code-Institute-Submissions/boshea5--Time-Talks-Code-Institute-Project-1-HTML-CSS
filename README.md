@@ -181,7 +181,7 @@ A coupon code will be installed on the site for users to reference on the partne
 
 [Back to top](<#contents>)
 
-# Testing
+## Testing
 
 All the code has been run through the W3C html Validator and the W3C CSS Validator. 
 
@@ -212,23 +212,23 @@ The site scored 100% on Accessibilty
 ## Testing User Stories
 
 * As a user I want to be able to navigate through the whole site smoothly.
-* Navigation is at the top left the page in the form of the navigation menu.
+ Navigation is at the top left the page in the form of the navigation menu.
 <br>
 * As a user I want to understand the purpose of the site upon loading it.
-* The Home page has a large hero image of a watch along with the logo having a watch inserted between Time and Talks
-*<br>
+ The Home page has a large hero image of a watch along with the logo having a watch inserted between Time and Talks
+<br>
 * As a user I want to easily be able to subscribe to the Time Talk Webinars.
-* There is a simple clear form to fill in with Name and Email at the bottom of the page
+There is a simple clear form to fill in with Name and Email at the bottom of the page
 <br>
 * As a user I want to know details, content, contributors and topics about the Time Talks.
-* In every section it is clearly pointed using images and written content about the Time Talks mission.
+ In every section it is clearly pointed using images and written content about the Time Talks mission.
 <br>
 * As a user I want to connect with Time Talks on social media.
-* The footer allows clickable links to connect with socila media platforms
+ The footer allows clickable links to connect with socila media platforms
 
 #Bugs
 
-* Uresolved
+## Uresolved
 
 ![57E0849F-DBA9-48E0-9DA8-DEB57B49F997](https://user-images.githubusercontent.com/96124619/148692463-8fa3fa33-48c8-4181-b249-48c9911a56ec.jpeg)
 
@@ -236,9 +236,9 @@ This was a warning on the css code. On researching it the answer was that it was
 
 ![1F1AD7B2-D7BE-4E7E-87BE-DB296B76FBE5_1_105_c](https://user-images.githubusercontent.com/96124619/148692495-764aa727-4c2a-4d98-adfe-8627de5e0f88.jpeg)
 
-#Google Chrome Crash Handler and Git Hub / Git Pod Issues
+### Google Chrome Crash Handler and Git Hub / Git Pod Issues
 
-The project was constanly hamperd by overusing our data allowance. The issue has yet to be resolved. It seems to be becasue of the extension to use git hub on mac ios and Google Chrome Crash Handler constantly pulling data. It ca be turned off but it wont run git hub to git pod button. I had to revert to using Firefox as browser. Service Provider and Google, Slack could not provide an answer. Data was lost regulary. 
+The project was constanly hamperd by overusing our data allowance. The issue has yet to be resolved. It seems to be becasue of the extension to use git hub on mac ios and Google Chrome Crash Handler constantly pulling data. It can be turned off but it install the run git hub to git pod button. I had to revert to using Firefox as browser. Service Provider, Google and Slack could not provide an answer. Data was lost regulary.
 
 
 
