@@ -291,6 +291,7 @@ The method from cloning a project from GitHub is below:
 * Code for The Footer for the Social Media links was based on the form from "The Love Running" Project on The Code Institute LMS
 * The written content for "In association with" section was taken from the partners respected websites
 * The color scheme template card was cited from http://colormind.io/ and https://www.rolex.com/watches/cosmograph-daytona/m116506-0001.html
+* The back to top button was based on code found in https://stackoverflow.com/
 
 ### Media
 * The photos are from istock and store websites
