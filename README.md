@@ -7,7 +7,7 @@ The aim of the site is to inform and increase the sales of high end wrist watche
 The three retailers although collaborating on the project are also in competition with each other as well as being authorised dealers for competing brands. Thus the website needed to remain independent and as neutral as possible focusing on getting users to subscribe to the webinars.
 
 
-Welcome to the journey through 
+Welcome to the journey through https://boshea5.github.io/-Time-Talks-Code-Institute-Project-1-HTML-CSS/index.html
 
 [Time Talks responsive design]
 
