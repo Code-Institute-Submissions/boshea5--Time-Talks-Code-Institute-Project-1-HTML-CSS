@@ -211,19 +211,19 @@ The site scored 100% on Accessibilty
 
 ## Testing User Stories
 
-* As a user I want to be able to navigate through the whole site smoothly.
+ *As a user I want to be able to navigate through the whole site smoothly.
  Navigation is at the top left the page in the form of the navigation menu.
 <br>
-* As a user I want to understand the purpose of the site upon loading it.
+*As a user I want to understand the purpose of the site upon loading it.
  The Home page has a large hero image of a watch along with the logo having a watch inserted between Time and Talks
 <br>
-* As a user I want to easily be able to subscribe to the Time Talk Webinars.
+*As a user I want to easily be able to subscribe to the Time Talk Webinars.
 There is a simple clear form to fill in with Name and Email at the bottom of the page
 <br>
-* As a user I want to know details, content, contributors and topics about the Time Talks.
+*As a user I want to know details, content, contributors and topics about the Time Talks.
  In every section it is clearly pointed using images and written content about the Time Talks mission.
 <br>
-* As a user I want to connect with Time Talks on social media.
+*As a user I want to connect with Time Talks on social media.
  The footer allows clickable links to connect with socila media platforms
 
 #Bugs
