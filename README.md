@@ -87,8 +87,9 @@ The colours were used to created an inclusive and welcoming environment as oppos
 
 ![82893F9B-FB1F-4276-8D97-A93596E615D4_4_5005_c](https://user-images.githubusercontent.com/96124619/148551940-b814705a-9396-404b-9bf0-777339a3f0e8.jpeg)
 
+![C5A2208F-6A62-4354-B3B0-E30F3AE8D34E_4_5005_c](https://user-images.githubusercontent.com/96124619/148700754-220de96a-07d3-42cf-ba59-30bf31f69535.jpeg)
 
-![78BF90DC-8B9F-474B-8225-6475B8B65EE4_4_5005_c](https://user-images.githubusercontent.com/96124619/148552149-c990099f-3e45-47ea-a76d-94dca8911823.jpeg)
+
 
 
 [Back to top](<#contents>)
