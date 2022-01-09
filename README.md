@@ -213,18 +213,23 @@ The site scored 100% on Accessibilty
 ## Testing User Stories
 
  Q:As a user I want to be able to navigate through the whole site smoothly.
+ 
  Ans:Navigation is at the top left the page in the form of the navigation menu.
 <br>
 Q:As a user I want to understand the purpose of the site upon loading it.
+
 Ans:The Home page has a large hero image of a watch along with the logo having a watch inserted between Time and Talks
 <br>
 Q:As a user I want to easily be able to subscribe to the Time Talk Webinars.
+
 Ans:There is a simple clear form to fill in with Name and Email at the bottom of the page
 <br>
 Q:As a user I want to know details, content, contributors and topics about the Time Talks.
+ 
  Ans:In every section it is clearly pointed using images and written content about the Time Talks mission.
 <br>
 Q:As a user I want to connect with Time Talks on social media.
+
 Ans:The footer allows clickable links to connect with socila media platforms
 
 ## Bugs
@@ -258,7 +263,9 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
   3. Under **Source**, select the branch to **master**, then click **save**.
   4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-![GitHub pages deployed image](assets/readme-images/deploy.png)
+GitHub pages deployed image
+
+![1F66BA43-6E0E-433A-BCC6-7C4C11681A37](https://user-images.githubusercontent.com/96124619/148701145-fbb135f2-cf09-4b97-acd4-dfb57620561c.jpeg)
 
   The live link to the Github repository can be found here - https://boshea5.github.io/-Time-Talks-Code-Institute-Project-1-HTML-CSS/index.html
 
