@@ -46,7 +46,6 @@ Welcome to the journey through https://boshea5.github.io/-Time-Talks-Code-Instit
 * As a user I want to understand the purpose of the site upon loading it.
 * As a user I want to easily be able to subscribe to the Time Talk Webinars.
 * As a user I want to know details, content, contributors and topics about the Time Talks.
-* As a user I want to know more about investing in high end time pieces.
 * As a user I want to connect with Time Talks on social media.
 
 
@@ -144,7 +143,7 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
 * ### Footer
     
     * Contains social media links. To enhance the UX the links open in other tabs.
-    * The social media presence will help the user contact Time Talks as opposed to the 3 retailers and will also encourage them to connect with Wawas Woods.
+    * The social media presence will help the user contact Time Talks as opposed to the 3 retailers and will also encourage them to connect with Time Talks.
     
     
 [Footer image]![C24E7FF2-A36F-49B0-A200-9B2C2EF60C20_4_5005_c](https://user-images.githubusercontent.com/96124619/148579285-c78e4cf9-a234-402d-bb00-bb12c538c977.jpeg)
@@ -160,7 +159,7 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
 
 The site would like to integrate skype/zoom/google-hangout into the main body so that when the webinar is taking place it is framed within timetalks.ie
 
-An mp3 or mp4 file will be installed in the "Our Experts" section to give a quick highliget of each speaker
+An mp3 or mp4 file will be installed in the "Our Experts" section to give a quick highlight of each speaker
 
 The watch icons and hero image will have running time G.M.T
 
@@ -183,7 +182,7 @@ A coupon code will be installed on the site for users to reference on the partne
 
 # Testing
 
-All the code has been run through the W3C html Validator and the W3C CSS Validator. 
+All the code has been run through the W3C html Validator and the W3C CSS Validator and passed. 
 
 ![6B0CACC2-01A0-4A0A-B61F-E3DEA374F9EA_1_105_c](https://user-images.githubusercontent.com/96124619/148691888-5ae9ddfe-73c8-466c-98d8-5eebd710230f.jpeg)
 
@@ -289,7 +288,7 @@ The method from cloning a project from GitHub is below:
 * The font came from [Google Fonts](https://fonts.google.com/).
 * The form code was based on a "floating contact form css" by Shante Austin https://codepen.io/shantedenise/pen/GYyxWV and uses https://formsubmit.co/bernardo.oshea@gmail.com by https://formsubmit.co/
 * [Mockflow](https://www.mockflow) was used to create the wireframes.
-* Code for The Footer for the Social Media links was used from "The Love Running" Project on The Code Institute LMS
+* Code for The Footer for the Social Media links was based on the form from "The Love Running" Project on The Code Institute LMS
 * The written content for "In association with" section was taken from the partners respected websites
 * The color scheme template card was cited from http://colormind.io/ and https://www.rolex.com/watches/cosmograph-daytona/m116506-0001.html
 
@@ -300,7 +299,7 @@ The method from cloning a project from GitHub is below:
 [Back to top](<#contents>)
 
 # Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Time Talks is a fictional company.
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Time Talks is a fictional company. The Speakers are purely fictional and not based on any individual. 
 
 Bernard O'Shea 2021.
 
