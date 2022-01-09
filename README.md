@@ -7,7 +7,7 @@ The aim of the site is to inform and increase the sales of high end wrist watche
 The three retailers although collaborating on the project are also in competition with each other as well as being authorised dealers for competing brands. Thus the website needed to remain independent and as neutral as possible focusing on getting users to subscribe to the webinars.
 
 
-Welcome to the journey through https://boshea5.github.io/-Time-Talks-Code-Institute-Project-1-HTML-CSS/index.html"_blank"
+Welcome to the journey through 
 
 [Time Talks responsive design]
 
@@ -153,7 +153,7 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
 
 
 * ### Form Confirmation
-* The site uses https://formsubmit.co 
+* Once deatils are submitted it will redirect to home
    
 ## Future Features 
 
@@ -211,24 +211,24 @@ The site scored 100% on Accessibilty
 
 ## Testing User Stories
 
- *As a user I want to be able to navigate through the whole site smoothly.
- Navigation is at the top left the page in the form of the navigation menu.
+ Q:As a user I want to be able to navigate through the whole site smoothly.
+ Ans:Navigation is at the top left the page in the form of the navigation menu.
 <br>
-*As a user I want to understand the purpose of the site upon loading it.
- The Home page has a large hero image of a watch along with the logo having a watch inserted between Time and Talks
+Q:As a user I want to understand the purpose of the site upon loading it.
+Ans:The Home page has a large hero image of a watch along with the logo having a watch inserted between Time and Talks
 <br>
-*As a user I want to easily be able to subscribe to the Time Talk Webinars.
-There is a simple clear form to fill in with Name and Email at the bottom of the page
+Q:As a user I want to easily be able to subscribe to the Time Talk Webinars.
+Ans:There is a simple clear form to fill in with Name and Email at the bottom of the page
 <br>
-*As a user I want to know details, content, contributors and topics about the Time Talks.
- In every section it is clearly pointed using images and written content about the Time Talks mission.
+Q:As a user I want to know details, content, contributors and topics about the Time Talks.
+ Ans:In every section it is clearly pointed using images and written content about the Time Talks mission.
 <br>
-*As a user I want to connect with Time Talks on social media.
- The footer allows clickable links to connect with socila media platforms
+Q:As a user I want to connect with Time Talks on social media.
+Ans:The footer allows clickable links to connect with socila media platforms
 
-#Bugs
+## Bugs
 
-## Uresolved
+### Uresolved
 
 ![57E0849F-DBA9-48E0-9DA8-DEB57B49F997](https://user-images.githubusercontent.com/96124619/148692463-8fa3fa33-48c8-4181-b249-48c9911a56ec.jpeg)
 
