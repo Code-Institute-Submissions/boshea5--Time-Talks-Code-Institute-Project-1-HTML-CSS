@@ -147,7 +147,7 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
     * The social media presence will help the user contact Time Talks as opposed to the 3 retailers and will also encourage them to connect with Wawas Woods.
     
     
-![Footer image]![C24E7FF2-A36F-49B0-A200-9B2C2EF60C20_4_5005_c](https://user-images.githubusercontent.com/96124619/148579285-c78e4cf9-a234-402d-bb00-bb12c538c977.jpeg)
+[Footer image]![C24E7FF2-A36F-49B0-A200-9B2C2EF60C20_4_5005_c](https://user-images.githubusercontent.com/96124619/148579285-c78e4cf9-a234-402d-bb00-bb12c538c977.jpeg)
 
 [Back to top](<#contents>)
 
