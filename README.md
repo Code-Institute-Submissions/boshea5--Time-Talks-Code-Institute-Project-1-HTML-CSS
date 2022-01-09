@@ -154,6 +154,7 @@ The user will be sent a zoom/skype/goole hang-out link on the day of each talk.
 
 
 * ### Form Confirmation
+* The site uses https://formsubmit.co 
    
 ## Future Features 
 
