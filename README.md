@@ -183,7 +183,32 @@ A coupon code will be installed on the site for users to reference on the partne
 
 # Testing
 
-Please refer to [**_here_**](TESTING.md) for more information on testing Time Talks.
+All the code has been run through the W3C html Validator and the W3C CSS Validator. 
+
+![6B0CACC2-01A0-4A0A-B61F-E3DEA374F9EA_1_105_c](https://user-images.githubusercontent.com/96124619/148691888-5ae9ddfe-73c8-466c-98d8-5eebd710230f.jpeg)
+
+![42D52065-2741-4590-9237-FCC8A4711503_1_105_c](https://user-images.githubusercontent.com/96124619/148691902-00e38956-3092-457a-b6c6-af3e027ae1f9.jpeg)
+
+*Responsiveness Test
+
+The responsive design tests were carried out manually with Google Chrome DevTools
+
+![249C0C90-4BEA-4D55-907E-C9B97A839C61](https://user-images.githubusercontent.com/96124619/148692016-a158710d-49e7-430f-bfbb-81509decc1da.jpeg)
+
+![E542CB56-A9BB-4C01-A3DD-C8BB20156722](https://user-images.githubusercontent.com/96124619/148692028-7d9fe690-d2ff-423b-9ad2-46f329034088.jpeg)
+
+![646DC748-CCCB-418D-8342-8B14F194020A](https://user-images.githubusercontent.com/96124619/148692034-33e9f0d9-75ca-4222-ae5c-c154bf73b4ad.jpeg)
+
+Browser Compatibility
+The site was tested on the following browsers with no visible issues for the user. Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+
+*Lighthouse Test
+
+The site scored 100% on Accessibilty 
+
+
+![E79A454A-18B5-44F3-9CED-3606F51FB2B6](https://user-images.githubusercontent.com/96124619/148692069-5e886c2f-5832-4b71-b2f5-4288d1c30c8a.jpeg)
+
 
 [Back to top](<#contents>)
 
